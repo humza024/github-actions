@@ -2,13 +2,13 @@
 
 <html>
 <head>
-<title>GitHub Action</title>
+<title>GitHub Actions with Docker container</title>
 </head>
 <?php
-echo "This is PHP Code";
+echo "PHP Code";
 ?>
 <body>
-<h1>My name is Sajjad Talib</h1>
-<p>This is CI CD Pipeline</p>
+<h1>My name is humza Arshad khan</h1>
+<p>I am a DevOps Engineer</p>
 </body>
 </html>
